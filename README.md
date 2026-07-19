@@ -14,6 +14,8 @@
 
 |---|---|
 
+| Day-01 | Packet Tracer Introduction |
+
 | Day-02 | Connecting Devices |
 
 | Day-03 | OSI Model |
