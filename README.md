@@ -25,6 +25,8 @@
 | Day-06 | Ethernet LAN Switching |
 
 | Day-08 | IPv4 Addresses |
+
+
 | Day-09 | Configuring Interfaces |
 
 
